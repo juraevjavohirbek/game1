@@ -102,6 +102,9 @@ body{
 
 
 @media (max-width: 425px){
+    body{
+        margin: 50px auto;
+    }
 
     .heading{
         font-size: 30px;
@@ -126,7 +129,7 @@ body{
     }
 
     .modal{
-        top: 30%;
+        top: 27%;
     }
 
     .modal-total{
